@@ -1,1 +1,1 @@
-FROM docker.io/fluent/fluent-bit:1.6.8
+FROM docker.io/fluent/fluent-bit:1.7.1
